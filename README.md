@@ -52,6 +52,7 @@ If you love this project and want to support future ones:
 ### 📺 Watch the Complete Full Course on YouTube (Include the Whop AI)
 
 Learn how it all works — from real-time messaging to the complete folder structure and design system.
+
 👉 [Watch the Course](https://youtube.com/@techwithemmaofficial)
 
 ## 🤖 Want the full code with _Whop AI Integration_?
