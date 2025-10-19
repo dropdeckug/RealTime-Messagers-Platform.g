@@ -61,7 +61,7 @@ Learn how it all works — from real-time messaging to the complete folder struc
 - 🔌 Secure backend + frontend AI setup
 - ⚙️ Ready configuration
 
-## 👉 [Get the Full Code + Whop AI Integration](https://techwithemma.gumroad.com/l/whop-ai)
+👉 [Get the Full Code + Whop AI Integration](https://techwithemma.gumroad.com/l/whop-ai)
 
 ---
 
