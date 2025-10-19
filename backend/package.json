@@ -12,8 +12,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@ai-sdk/google": "^2.0.23",
-    "ai": "^5.0.76",
     "bcryptjs": "^3.0.2",
     "cloudinary": "^2.7.0",
     "cookie-parser": "^1.4.7",
