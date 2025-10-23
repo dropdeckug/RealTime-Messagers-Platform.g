@@ -17,15 +17,7 @@
 - 🧩 Built with **Node.js**, **MongoDB**, **React**, and **TypeScript**
 - 🚀 Deployment Ready
 
-## 🧠 How to Use This Project
 
-### 📺 Watch the Complete Full Course on YouTube (Include the Whop AI)
-
-Learn how it all works — from real-time messaging to the complete folder structure and design system.
-
-👉 [Watch the Course](https://youtube.com/@techwithemmaofficial)
-
-## 🤖 Want the full code with _Whop AI Integration_?
 
 - 📡 Real-time streaming via WebSocket
 - 🧠 Context-aware AI chat replies
